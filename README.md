@@ -5,6 +5,7 @@ A Japanease translation of Piano From Above.
 **Requirements:**
 
  - Resource Hacker
+[Download Resource Hacker](http://www.angusj.com/resourcehacker/)
 
 #
 
